@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href=mailto:palesa.mapeka@umuzi.org>
-    <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=email&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
 <div align="center">
@@ -49,3 +49,7 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 ### :fire: My Stats :
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=palesamapeka&theme=dark&background=000000)](https://git.io/streak-stats)
+
+### :top: Top Languages :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=palesamapeka&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
