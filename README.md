@@ -36,7 +36,7 @@ I am currently learning JavaScript, CSS, HTML, and web-based development through
 
 I'm also interested in learning Flutter.
 
-You can checkout my ### :earth_africa: online portfolio <a href=palesamapeka.github.io>here<a/>
+You can checkout :earth_africa: online portfolio <a href=palesamapeka.github.io>here<a/>
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
