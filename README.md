@@ -29,7 +29,7 @@
 ---
 
 ### :woman_technologist: About Me :
-
+<h2>My name is Palesa Mapeka</h2>
 I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Johannesburg, South Africa.
 
 I am currently learning JavaScript, CSS, HTML, and web-based development through <a href="umuzi.org">Umuzi.org</a>
