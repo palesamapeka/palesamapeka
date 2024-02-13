@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href=mailto:palesa.mapeka@umuzi.org>
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=email&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
 <div align="center">
