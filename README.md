@@ -30,9 +30,11 @@
 
 ### :woman_technologist: About Me :
 
-My name is <span onmouseover="this.style.color='#ff0000'" onmouseout="this.style.color=''">Palesa Mapeka</span> I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Johannesburg, South Africa.
+My name is Palesa Mapeka</span> I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Johannesburg, South Africa.
 
 I am currently learning JavaScript, CSS, HTML, and web-based development through <a href="umuzi.org">Umuzi.org</a>
+
+I have gained a lot of experience as a developer and I am looking forward to using my skills to build amazing projects in th
 
 I'm also interested in learning Flutter.
 
@@ -58,26 +60,3 @@ You can checkout :earth_africa: online portfolio <a href=palesamapeka.github.io>
 
 ### :top: Top Languages :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=palesamapeka&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<style>
-  h2 {
-    transition: color 0.3s ease-in-out;
-    cursor: pointer;
-  }
-
-  h2:hover {
-    color: #ff0000; /* Red */
-    animation: rainbowGlow 2s infinite;
-  }
-
-  @keyframes rainbowGlow {
-    0% { color: #ff0000; } /* Red */
-    16.67% { color: #ff9900; } /* Orange */
-    33.33% { color: #ffff00; } /* Yellow */
-    50% { color: #00ff00; } /* Green */
-    66.67% { color: #0000ff; } /* Blue */
-    83.33% { color: #9900ff; } /* Purple */
-    100% { color: #ff0000; } /* Red */
-  }
-</style>
