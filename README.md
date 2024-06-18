@@ -38,7 +38,7 @@ I have gained a lot of experience as a developer and I am looking forward to usi
 
 I'm also interested in learning Flutter.
 
-You can checkout :earth_africa: online portfolio <a href=[palesamapeka.github.io](https://palesamapeka.github.io/)>here<a/>
+You can checkout :earth_africa: online portfolio <a href=https://palesamapeka.github.io/>here<a/>
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
