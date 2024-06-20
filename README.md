@@ -32,7 +32,7 @@
 
 My name is Palesa Mapeka</span> I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Johannesburg, South Africa.
 
-I am currently learning JavaScript, CSS, HTML, and web-based development through <a href="umuzi.org">Umuzi.org</a>
+I am currently learning JavaScript, CSS, HTML, and web-based development through <a href="https://umuzi.org">Umuzi.org</a>
 
 I have gained a lot of experience as a developer and I am looking forward to using my skills to build amazing projects in th
 
